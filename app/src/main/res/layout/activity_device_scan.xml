@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1">
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.JuserZhang.BluetoothCar.widget.WhorlView
+            android:id="@+id/whorl_view"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="12dp"
+            app:whorlview_circle_colors="#F44336_#4CAF50_#5677fc_#F44336_#4CAF50_#5677fc"
+            app:whorlview_circle_speed="270"
+            app:whorlview_parallax="fast"
+            app:whorlview_strokeWidth="6"
+            app:whorlview_sweepAngle="90" />
+    </RelativeLayout>
+
+</FrameLayout>

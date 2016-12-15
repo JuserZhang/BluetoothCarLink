@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="S:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_4d62ac95124fd267331be8f564bc925b605a9344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7a5dd2ab959bafe2dcc6e755e1ec075b67e643c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_00708e1f7e5e241a05826fb7ef7f007f1120d8f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="71af15148b9a476ba7b480405a257a93d3fb5fbb">
+        <dex dex="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_163bda24385019acc5ef68ae9e2129154db4905b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e4f52f7e4fb94ea68c34f5a5cf782852cd97d75d">
+        <dex dex="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1418e7fe45c52db51ff8e5d04030e5f1e45d417\classes.dex" />
+    </item>
+
+</items>

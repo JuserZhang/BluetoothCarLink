@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.4.0$Generated" generated="true"><source path="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="S:\Android\workspace\BluetoothCarLink\app\src\main\res"/><source path="S:\Android\workspace\BluetoothCarLink\app\build\generated\res\rs\debug"/><source path="S:\Android\workspace\BluetoothCarLink\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="S:\Android\workspace\BluetoothCarLink\app\src\debug\res"/></dataSet><dataSet config="23.4.0" from-dependency="true" generated-set="23.4.0$Generated"><source path="S:\Android\workspace\BluetoothCarLink\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="S:\Android\workspace\BluetoothCarLink\app\src\main\res"><file name="rotate" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\anim\rotate.xml" qualifiers="" type="anim"/><file name="toggle_status_changed" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable\toggle_status_changed.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="arrow_right" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\arrow_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bg" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\bg.jpg" qualifiers="xhdpi-v4" type="drawable"/><file name="bg1" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\bg1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toggle_off" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\toggle_off.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toggle_on" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\toggle_on.png" qualifiers="xhdpi-v4" type="drawable"/><file name="wheel" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xhdpi\wheel.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_device_scan" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\layout\activity_device_scan.xml" qualifiers="" type="layout"/><file name="activity_main" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="list_item" path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\layout\list_item.xml" qualifiers="" type="layout"/><file path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="whorlview_style">
+
+        
+        <attr format="string" name="whorlview_circle_colors"/>
+        
+        <attr format="integer" name="whorlview_circle_speed"/>
+        
+        <attr name="whorlview_parallax">
+            <enum name="fast" value="1"/>
+            <enum name="medium" value="0"/>
+            <enum name="slow" value="2"/>
+        </attr>
+        
+        <attr format="float" name="whorlview_sweepAngle"/>
+        
+        <attr format="float" name="whorlview_strokeWidth"/>
+    </declare-styleable></file><file path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">小车遥控</string><string name="copyright">小组成员：海伊斯、梁娟、张鹏</string><string name="ellipsis">......</string></file><file path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\values\styles.xml" qualifiers=""><style name="MyToggleButton" parent="@android:style/Widget.CompoundButton">
+        <item name="android:button">@drawable/toggle_status_changed</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="S:\Android\workspace\BluetoothCarLink\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="S:\Android\workspace\BluetoothCarLink\app\build\generated\res\rs\debug"/><source path="S:\Android\workspace\BluetoothCarLink\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="S:\Android\workspace\BluetoothCarLink\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="whorlview_style"><attr format="string" name="whorlview_circle_colors"/><attr format="integer" name="whorlview_circle_speed"/><attr name="whorlview_parallax">
+            <enum name="fast" value="1"/>
+            <enum name="medium" value="0"/>
+            <enum name="slow" value="2"/>
+        </attr><attr format="float" name="whorlview_sweepAngle"/><attr format="float" name="whorlview_strokeWidth"/></declare-styleable></configuration></mergedItems></merger>

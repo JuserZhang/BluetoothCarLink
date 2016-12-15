@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="whorlview_style">
+
+        <!-- 圆弧颜色 -->
+        <attr name="whorlview_circle_colors" format="string" />
+        <!-- 转圈速度 -->
+        <attr name="whorlview_circle_speed" format="integer" />
+        <!-- 视差效果 -->
+        <attr name="whorlview_parallax">
+            <enum name="fast" value="1" />
+            <enum name="medium" value="0" />
+            <enum name="slow" value="2" />
+        </attr>
+        <!-- 弧度 -->
+        <attr name="whorlview_sweepAngle" format="float" />
+        <!-- 弧宽 -->
+        <attr name="whorlview_strokeWidth" format="float" />
+    </declare-styleable>
+
+</resources>

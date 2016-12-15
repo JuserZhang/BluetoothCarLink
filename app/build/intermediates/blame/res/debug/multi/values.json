@@ -1,0 +1,165 @@
+[
+    {
+        "outputFile": "S:\\Android\\workspace\\BluetoothCarLink\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 57,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endColumn": 55,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 41,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 52,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 52,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 43,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 43,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1049
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1054,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 528,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "S:\\Android\\workspace\\BluetoothCarLink\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 858
+                    }
+                }
+            }
+        ]
+    }
+]

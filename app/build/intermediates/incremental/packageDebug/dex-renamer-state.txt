@@ -1,0 +1,7 @@
+#Thu Dec 15 18:04:57 CST 2016
+base.0=S\:\\Android\\workspace\\BluetoothCarLink\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_163bda24385019acc5ef68ae9e2129154db4905b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=S\:\\Android\\workspace\\BluetoothCarLink\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1418e7fe45c52db51ff8e5d04030e5f1e45d417\\classes.dex
+base.1=S\:\\Android\\workspace\\BluetoothCarLink\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1418e7fe45c52db51ff8e5d04030e5f1e45d417
+file.0=S\:\\Android\\workspace\\BluetoothCarLink\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_163bda24385019acc5ef68ae9e2129154db4905b\\classes.dex
